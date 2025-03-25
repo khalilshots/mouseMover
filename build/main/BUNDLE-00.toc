@@ -1,0 +1,3 @@
+([('main',
+   '/Users/khalilmouhah/Desktop/mouse_mover_fixed/dist/main',
+   'EXECUTABLE')],)
